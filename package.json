@@ -50,7 +50,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npm i && cd ./myserver && npm i && cd ../chatbot && npm i && cd .. && npm run build",
+    "build": "npm i && cd ./myserver && npm i && cd ../chatbot && npm i && npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
