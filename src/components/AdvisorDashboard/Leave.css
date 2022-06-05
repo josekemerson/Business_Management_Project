@@ -1,0 +1,28 @@
+input[type=text]  {
+    
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  
+  }
+  input[type=date]  {
+    
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+ 
+  }
+  
+  input[type=button]  {
+  
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left:15.5%;
+    margin-top: 1%;
+  }
+  

@@ -1,0 +1,18 @@
+.error {
+  position: relative;
+  float: right;
+  color: #ec0000;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 14px;
+  margin-left: 0%;
+}
+
+.error-visible {
+  visibility: visible;
+  display: inline-table;
+}
+
+.error-hidden {
+  visibility: hidden;
+}
+

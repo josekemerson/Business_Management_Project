@@ -1,0 +1,11 @@
+.FinalPricebutton{
+    width: 20x;
+   
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 1%;
+    background-color: #3385ff;
+    color: white;
+
+}
